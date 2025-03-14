@@ -28,7 +28,7 @@ export const About = () => {
                 <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-purple-500 to-pink-400 bg-clip-text text-transparent text-center">
                     About Me
                 </h2>
-                <div className="glass rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
+                <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-purple-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                     <p className="text-gray-300 mb-6">
                         Passionate developer with a strong interest in web development. I am a self-taught developer with a background in computer science. I have experience in building web applications using modern technologies like React, Next.js, and Tailwind CSS. I am always eager to learn new technologies and improve my skills.
                     </p>
@@ -65,7 +65,7 @@ export const About = () => {
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
-                                <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                                <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-purple-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                                     <h3 className="text-xl font-bold mb-4"> 🏫 Education</h3>
                                     <ul className="list-disc list-inside text-gray-300 space-y-2">
                                         <li>
@@ -76,7 +76,7 @@ export const About = () => {
                                         </li>
                                     </ul>
                                 </div>
-                                <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                                <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-purple-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                                     <h3 className="text-xl font-bold mb-4"> 💼 Work Experience</h3>
                                     <div className="space-y-4 text-gray-300">
                                         <div>
