@@ -77,6 +77,15 @@ export const About = () => {
                                         <li>
                                             Certifications: UX/UI Design, Intro to Software Engineering, E-commerce, Intro to Python
                                         </li>
+                                        <li>
+                                           Bootcamp Frontend Development at Laboratoria (Second Generation)
+                                        </li>
+                                        <li>
+                                           Bootcamp FullStack Development at Desafio Latam
+                                        </li>
+                                        <li>
+                                           Certification Intro to Ruby On Rails at Desafio Latam
+                                        </li>
                                     </ul>
                                 </div>
                                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-purple-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
