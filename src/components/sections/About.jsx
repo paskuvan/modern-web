@@ -8,16 +8,16 @@ export const About = () => {
         "HTML",
         "CSS",
         "Tailwind CSS",
-        "React Native"
+        "Astro"
     ];
 
     const backendSkills = [
         "Node.js",
-        "Python",
+        "Ruby On Rails",
         "MongoDB",
-        "Firebase",
-        "REST API",
-        "GraphQL"
+        "PHP",
+        "Git",
+        "MySQL"
     ];
     return (
         <section 
@@ -30,7 +30,7 @@ export const About = () => {
                 </h2>
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-purple-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
                     <p className="text-gray-300 mb-6">
-                        Passionate developer with a strong interest in web development. I am a self-taught developer with a background in computer science. I have experience in building web applications using modern technologies like React, Next.js, and Tailwind CSS. I am always eager to learn new technologies and improve my skills.
+                        Passionate developer with a strong interest in web development. I am a self-taught developer with a background in Development. I have experience in building web applications using modern technologies like React, Javascript, and Tailwind CSS. I am always eager to learn new technologies and improve my skills.
                     </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -73,6 +73,9 @@ export const About = () => {
                                         </li>   
                                         <li>
                                             Revelant Coursework: Web Development, Data Structures, Algorithms, Pseudocode, POO
+                                        </li>
+                                        <li>
+                                            Certifications: UX/UI Design, Intro to Software Engineering, E-commerce, Intro to Python
                                         </li>
                                     </ul>
                                 </div>
